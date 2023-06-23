@@ -1,0 +1,273 @@
+@media only screen and (max-width:1200px) {
+    html {
+        font-size: 16px;
+    }
+    h1{
+        font-size: 250%;
+    }
+
+    .heading-main-box {
+        transform: translate(5%, 50%)
+    }
+
+    .sticky .logo {
+        width: 12%;
+    }
+
+    form {
+        margin-left: 30%;
+    }
+
+    .Blog-picture {
+        width: 450px;
+        height: 300px;
+    }
+
+    h3,
+    h4 {
+        margin-left: 20px;
+    }
+
+    .Blog-p {
+        margin-left: 20px;
+    }
+
+    .information {
+        margin-left: 20px;
+    }
+
+    .social-icons {
+        margin-left: 20px;
+    }
+
+    .social-icons img:hover,
+    .social-icons img:active {
+        transform: scale(1.5);
+    }
+
+    form {
+        margin-right: 20px;
+    }
+    .social-logo{
+        margin-right: 10%;
+    }
+}
+@media only screen and (max-width: 830px){
+    .Blog-picture {
+        width: 390px;
+    }
+}
+@media only screen and (max-width:769px) {
+    h1 {
+        font-size: 200%;
+    }
+
+    .heading-main-box {
+        transform: translate(5%, 50%)
+    }
+
+    .col {
+        width: 100%;
+    }
+
+    .main-nav {
+        display: none;
+        margin-left: 60px;
+    }
+
+    .mobile-nav-icon {
+        display: block;
+    }
+
+    .logo {
+        margin-top: 50%;
+        margin-left: 25%;
+        width: 50px;
+    }
+
+    .sticky .logo {
+        margin-top: 70px;
+        margin-left: 20px;
+        width: 40px;
+
+    }
+
+    .social-logo {
+        margin-right: 10%;
+    }
+
+    .about-section .row .p-long {
+        font-size: 20px;
+    }
+
+    .about-picture {
+        text-align: center;
+    }
+
+    .about-picture img {
+        width: 70%
+    }
+
+    .picture-title {
+        font-size: 25px;
+    }
+
+
+    .small-logo {
+        width: 30px;
+        height: 30px;
+    }
+
+    form {
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    label {
+        margin-left: 35%;
+    }
+
+    .information {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .information li {
+        font-size: 20px;
+    }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .social-icons li {
+        font-size: 60px;
+        margin-bottom: 20px;
+    }
+
+    .social-icons {
+        margin-left: 30%;
+    }
+
+    .Blog-p {
+        margin-right: 10%;
+    }
+
+    form {
+        width: 70%;
+    }
+
+    .p-long {
+        font-size: 18px;
+    }
+
+
+}
+
+@media only screen and (max-width:570px) {
+    h1 {
+        font-size: 150%;
+    }
+
+    .main-box {
+        font-size: 15px;
+    }
+
+    .social-logo {
+        margin-right: 15%;
+
+    }
+}
+@media only screen and (max-width: 500px) {
+.social-logo{
+    margin-right: 25%;
+    margin-top: 2%;
+}
+.small-logo{
+    width: 23px;
+    height:23px;
+
+}
+.main-box{
+    font-size: 16px;
+    margin-top: 00%;
+}
+
+}
+@media only screen and (max-width: 480px) {
+    h1 {
+        font-size: 200%;
+    }
+    .heading-main-box {
+        transform: translate(3%, 50%)
+    }
+    .social-logo {
+        margin-right: 25%;
+    }
+
+    .small-logo {
+        width: 25px;
+        height: 25px;
+    }
+
+    .main-box {
+        margin-bottom: 10px;
+        font-size: 80%;
+
+    }
+
+    .logo {
+        width: 30px;
+    }
+
+    h2 {
+        font-size: 120%;
+    }
+.p-long{
+font-size: 16px;
+}
+.Blog-p{
+    font-size: 16px;
+}
+form{
+    width: 80%;
+}
+}
+@media only screen and (max-width: 400px) {
+h1{
+    font-size: 100%;
+}
+.heading-btn{
+width: 50%;
+margin-right: 180px;
+}
+.social-logo{
+    margin-right: 35%;
+}
+.small-logo{
+    width: 15px;
+    height: 15px;
+}
+.main-box{
+    font-size: 10px;
+    font-weight: 900;
+    margin-top: 20px;
+}
+h2{
+    font-size: 16px;
+}
+.p-long{
+    font-size: 12px;
+}
+.picture-title{
+    font-size: 16px;
+}
+.Blog-picture{
+    height: 300px;
+    width: 350px;
+}
+.social-icons{
+    margin-left: 15%;
+}
+}
+
